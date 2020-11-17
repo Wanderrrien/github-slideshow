@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Intelligence is the ability to avoid doing work, yet getting the work done.
 Use the left arrow to go back!
